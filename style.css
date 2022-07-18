@@ -149,4 +149,31 @@ a.btn i {
 }
 
 
+
 /* Header end */
+
+
+
+/* Sponsor */
+.sponsor_content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 1.5rem 0;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 1rem;
+}
+
+section#sponsor {
+    margin-top: 2rem;
+}
+/* Sponsor end */
