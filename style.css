@@ -176,4 +176,9 @@ a.btn i {
 section#sponsor {
     margin-top: 2rem;
 }
+@media screen and (max-width: 576px) {
+    .sponsor_content {
+        justify-content: center;
+    }
+}
 /* Sponsor end */
