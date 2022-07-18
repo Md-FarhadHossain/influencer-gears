@@ -71,7 +71,9 @@ ul.nav_link a>i {
     align-items: center;
     justify-content: space-between;
 }
-
+#hero {
+    margin-top: 3rem;
+}
 .hero_left {
     width: 50%;
     display: grid;
@@ -95,7 +97,6 @@ a.btn {
     text-decoration: none;
     display: flex;
     align-items: center;
-    justify-content: center;
     width: 210px;
 }
 
@@ -129,6 +130,7 @@ a.btn i {
     .logo h2 {
         font-size: 2rem;
     }
+    
 }
 
 
