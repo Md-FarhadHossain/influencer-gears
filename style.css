@@ -179,6 +179,7 @@ section#sponsor {
 @media screen and (max-width: 576px) {
     .sponsor_content {
         justify-content: center;
+        border: none;
     }
 }
 /* Sponsor end */
