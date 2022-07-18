@@ -130,7 +130,22 @@ a.btn i {
     .logo h2 {
         font-size: 2rem;
     }
-    
+    .hero_left, .hero_right {
+        width: 100%;
+    }
+    .hero_left {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .hero_right {
+        text-align: center;
+    }
+    .hero_content {
+        flex-direction: column-reverse;
+        text-align: center;
+        gap: 2rem;
+    }
 }
 
 
